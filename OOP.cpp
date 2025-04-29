@@ -19,6 +19,6 @@ int main(){
     
     mhs.nim = 2024;
     mhs.nama = "abra";
-    
+    mhs.nilai = 80.5;
 
 }
